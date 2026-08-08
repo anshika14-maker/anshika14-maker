@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Anshika 👋
 
-<!--
-**anshika14-maker/anshika14-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python | SQL | Excel | Tableau
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst with hands-on experience in data analysis, KPI reporting, exploratory data analysis, and business analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work as an Assistant Technical at Tata Steel and am transitioning into data analytics. I enjoy using data to identify trends, understand business problems, and support data-driven decision-making.
+
+## 🛠️ Skills
+
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis, Statistics
+- **Visualization:** Tableau, Power BI, Excel
+- **Database:** MySQL, BigQuery
+- **Tools:** Jupyter Notebook, Google Colab
+
+## 📊 Featured Projects
+
+- **Walmart Sales Analysis**  
+  Customer purchase behavior analysis using Python, EDA, and statistical analysis.
+
+- **Superstore Sales Dashboard**  
+  Interactive Tableau dashboard analyzing sales, profitability, customer segments, and regional performance.
+
+## 🎯 Currently
+
+- Building data analytics projects
+- Strengthening SQL and Python skills
+- Preparing for Data Analyst / Business Analyst opportunities
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/anshika-623937291)
